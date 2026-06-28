@@ -1264,7 +1264,6 @@ dependencies = [
  "libc",
  "libmwemu",
  "log",
- "serde",
  "serde_json",
  "tiny_http",
 ]
