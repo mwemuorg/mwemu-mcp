@@ -1,4 +1,5 @@
 # mwemu-mcp
+[![Rust CI](https://github.com/mwemuorg/mwemu-mcp/actions/workflows/ci.yaml/badge.svg)](https://github.com/mwemuorg/mwemu-mcp/actions/workflows/ci.yaml)
 
 A [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server that
 exposes the [mwemu](https://github.com/sha0coder/mwemu) x86 / x86-64 / aarch64
