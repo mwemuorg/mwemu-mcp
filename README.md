@@ -2,7 +2,7 @@
 [![Rust CI](https://github.com/mwemuorg/mwemu-mcp/actions/workflows/ci.yaml/badge.svg)](https://github.com/mwemuorg/mwemu-mcp/actions/workflows/ci.yaml)
 
 A [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server that
-exposes the [mwemu](https://github.com/sha0coder/mwemu) x86 / x86-64 / aarch64
+exposes the [mwemu](https://github.com/mwemuorg/mwemu) x86 / x86-64 / aarch64
 emulator (`libmwemu`) to MCP clients such as Claude.
 
 It works like driving `pymwemu` by hand, but over MCP: you **open** a session
